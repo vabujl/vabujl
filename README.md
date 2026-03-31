@@ -1,61 +1,33 @@
-
-
-
-Hey, I'm vabujl 👋
-
-
-
-
-
-  Full-Stack Developer — I build things for the web and mobile.
-
-  Crafting clean code with Java, Kotlin & Node.js. Designing in Figma.
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
+<!-- Header -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=26&pause=1000&color=000000&width=500&lines=Hey%2C+I+build+things.+%F0%9F%91%8B;Full-Stack+Developer.;Clean+code%2C+real+impact." alt="Typing SVG" />
+</p>
 
 ---
 
-## Tech Stack
+I'm a full-stack developer who loves turning ideas into clean, working software —
+from designing intuitive UIs to crafting robust backends.
+Currently exploring the edges of **mobile & web**.
+
+---
+
+### 🛠 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ---
 
-## About me
+### 📊 GitHub Stats
 
-I'm a full-stack developer passionate about building elegant, scalable solutions.  
-Whether it's a pixel-perfect UI or a robust backend — I care about the craft.  
-Currently exploring modern architecture patterns & clean design systems.
-
----
-
-## GitHub at a glance
-
-
-
-
-  
-  
-
-
-
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&hide_border=true&theme=default" />
+</p>
 
 ---
 
-## Let's connect
+### 📌 Status
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=white)](https://yoursite.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+![Open to opportunities](https://img.shields.io/badge/Status-Open%20to%20opportunities-22c55e?style=flat-square)
+![Building in public](https://img.shields.io/badge/Mode-Building%20in%20public-gray?style=flat-square)
+![Always learning](https://img.shields.io/badge/Always-Learning-gray?style=flat-square)
